@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TRainer </title>
+  <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
+</head>
+<body>
+  <div id="app-4">
+    <ol>
+      <li v-for="(todo, index) in todos">
+        <input type="checkbox" v-model="todos[index].checked"/>
+        <button style="display: inline-block;" v-on:click="moveUp(index)">up</button>
+        <button style="display: inline-block;" v-on:click="moveDown(index)">down</button>
+        <div style="display: inline-block;">{{ todo.text }}</div>
+      </li>
+      <input v-on:keyup.enter="addTodo" v-model="message"/>
+      <button v-on:click="addTodo">Add to do</button>
+    </ol>
+    <div v-on:click="showThis">Show this</div>
+  </div>
+
+  <script>
+    console.log("Jquery exists: ", !!$)
+    console.log("Vue exists: ", !!Vue)
+
+    var app4 = new Vue({
+      el: '#app-4',
+      data: {
+        todos: [],
+        message: ''
+      },
+      methods: {
+        addTodo: function (message) {
+          this.todos.push({
+            checked: false,
+            text: this.message
+          })
+          this.message = ''
+          console.log('todos --> ', this.todos)
+        },
+        moveUp: function (num) {
+          var a, b, temp
+          if ( num > 0 ){
+            a = this.todos[num]
+            b = this.todos[num - 1]
+            temp = a 
+            a = b
+            b = temp
+            Vue.set(this.todos, num, a)
+            Vue.set(this.todos, num - 1, b)
+          }
+        },
+        moveDown: function (num) {
+          var a, b, temp
+          if ( num < this.todos.length - 1 ){
+            a = this.todos[num]
+            b = this.todos[num + 1]
+            temp = a 
+            a = b
+            b = temp
+            Vue.set(this.todos, num, a)
+            Vue.set(this.todos, num + 1, b)
+          }
+        },
+        showThis: function () {
+          console.log('todos -- ', this.todos)
+        }
+      }
+
+    })
+
+  </script>
+</body>
+</html>

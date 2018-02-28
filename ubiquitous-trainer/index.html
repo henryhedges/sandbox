@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>trainer</title>
+</head>
+<body>
+  <style type="text/css">
+    #outside {
+      position: fixed;
+      top:10%;
+      bottom:10%;
+      right:10%;
+      left:10%;
+      min-height: 100px;
+      max-height: 800px;
+      height: 70%;
+      border: 2px solid;
+      min-width: 300px;
+      max-width: 800px;
+      width: 70%;
+      padding: 1rem;
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+
+    #action-block {
+      display: block;
+      height: 50%;
+    }
+
+    #action-target {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: grey;
+    }
+    
+  </style>
+
+  <div id="outside">
+    <div id="action-block">
+      <div>Action Target</div>
+      <div id="action-target">Content</div>
+    </div>
+  </div>
+</body>
+</html>

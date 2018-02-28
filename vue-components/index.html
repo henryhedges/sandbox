@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vue components</title>
+  <script
+    src="http://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
+</head>
+<body height="100%">
+  <div>HELLO - Vue Components</div>
+  <div id="app">
+    <child :message="message"></child>
+  </div>
+  
+  <script type="text/javascript">
+    Vue.component('child', {
+      // declare the props
+      props: ['message'],
+      // like data, the prop can be used inside templates and
+      // is also made available in the vm as this.message
+      template: '<span>{{ message }}</span>'
+    })
+
+    var app = new Vue({
+      el: "#app",
+      data: {
+        message: 'your data message'
+      }
+    })
+
+  </script>
+</body>
+</html>

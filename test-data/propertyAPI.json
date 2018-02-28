@@ -1,0 +1,1961 @@
+{
+  "20062": {
+    "data": {
+        "type": "property",
+        "id": 20062,
+        "attributes": {
+            "propertyId": 20062,
+            "propertyName": "Windsor at Stonecrest",
+            "propertyType": null,
+            "propertyKey": null,
+            "propertyUrl": null,
+            "company": null,
+            "companyId": 616,
+            "mobilePortalUrl": null,
+            "phoneNumber": "336-584-9003",
+            "revenueModelId": null,
+            "currencySymbol": null,
+            "unitCount": 0,
+            "floorCount": null,
+            "yearBuild": 0,
+            "yearRemodeled": 0,
+            "parkingType": null,
+            "display": true,
+            "petMaxWeight": 0,
+            "numberOfPetsAllowed": 2,
+            "petPolicyRestrictions": "No Rottweilers, Dobermans, Chows, Pit Bulls, German Shepherds (AB)",
+            "address": {
+                "address1": "4229 Stonecrest Dr",
+                "address2": "",
+                "city": "Burlington",
+                "county": null,
+                "state": "NC",
+                "zip": "27215",
+                "latitude": null,
+                "longitude": null
+            },
+            "leaseLength": null,
+            "sellingPoints": {
+                "primaryAdvantage": "",
+                "propSellingPoints": "Resort-style swimming pool.;Poolside gourmet grilling area.;Pet Park.;Private health club.;",
+                "homeSellingPoints": "Spacious floorplans.;Fully-applianced kitchen and abundant cabinet and storage space.;Designated resident parking and guest parking available.;Valet trash service.;",
+                "localSellingPoints": "Close to Alamance Crossing Shops and Burlington Outlets.;Convenient to I-40 and I-85.;Gold's Gym and Edge 5-10 minutes away.;",
+                "infoLinks": null,
+                "neighborhoodKeyImage": null,
+                "propertyKeyImage": null,
+                "homeKeyImage": null
+            },
+            "notes": [],
+            "features": {
+                "allUnits": [
+                    "Air Conditioning",
+                    "Mini Blinds",
+                    "Patio or Balcony",
+                    "Porch/Patio/Balcony",
+                    "Spacious Closet",
+                    "9' Ceilings",
+                    "Garden Tubs",
+                    "Roman Tubs",
+                    "Wall to Wall Carpeting",
+                    "Linen Closet",
+                    "Breakfast Bar",
+                    "Dishwasher",
+                    "Garbage Disposal",
+                    "Microwave",
+                    "Pantry",
+                    "Refrigerator w/ Ice Maker",
+                    "Refrigerator",
+                    "Self Cleaning Oven",
+                    "Electric Oven",
+                    "Maple Cabinets",
+                    "Ceiling Fan in Living Room",
+                    "Ceiling Fan in Master Bedroom",
+                    "Marble Vanity",
+                    "Track Lighting",
+                    "Recessed Can Lighting",
+                    "Ceiling Fan in All Bedrooms",
+                    "Detached Garages Available",
+                    "Extra Storage Units Available"
+                ],
+                "community": [
+                    "Barbeque / Grill Areas",
+                    "Business Center",
+                    "Clubhouse",
+                    "Disability / Wheelchair Accessible",
+                    "Pet Friendly",
+                    "Play Area",
+                    "Planned Social Activities",
+                    "24 Hours Emergency Maintenance",
+                    "Fax/Copier Services",
+                    "Coffee Bar",
+                    "Fitness Center",
+                    "Complimentary Tanning"
+                ],
+                "specificUnits": [
+                    "Spacious floorplans",
+                    "Valet trash service",
+                    "Upgraded appliances"
+                ],
+                "other": [
+                    "Swimming Pool#1",
+                    "Valet trash service"
+                ]
+            },
+            "neighborhood": {
+                "airport": "Piedmont Triad",
+                "airportRange": "",
+                "colleges": "Elon, UNCG",
+                "collegeRange": "3 Miles",
+                "daycares": "",
+                "dayCareRange": "5 Miles",
+                "elementarySchool": "Highland Elementary",
+                "elementaryRange": "5 Miles",
+                "generalInfo": "",
+                "grocery": "Lowes",
+                "groceryRange": "",
+                "gyms": "Gold's Gym and Edge ",
+                "gymRange": "5 Miles",
+                "highSchool": "Western High School",
+                "highSchoolRange": "5 Miles",
+                "hospital": "Alamance Regional",
+                "hospitalRange": "",
+                "interstates": "1 Block",
+                "interstatesRange": "1 Block",
+                "librarys": "Alamance Libary",
+                "libraryRange": "10 Miles",
+                "middleSchool": "Western middle School",
+                "middleSchoolRange": "5 Miles",
+                "miscMilitary": "",
+                "militaryRange": "",
+                "otherPoints": "Children's Museum and Burlington's Outlets",
+                "otherPointsRange": "5-10 Min",
+                "retailShops": "Alamance Crossing",
+                "retailFoods": "Lowes",
+                "retailEntertainment": "",
+                "retailEntertainmentRange": "",
+                "schoolDistrict": "Western middle School",
+                "schoolDistrictRange": "5 Miles",
+                "techSchool": "Alamance County College ",
+                "techSchoolRange": "3 Miles",
+                "transit": "Elon Bio",
+                "transitRange": "1 Block",
+                "shopRange": "1 Block"
+            },
+            "timezone": null,
+            "affordableHousing": {
+                "accepted": false,
+                "notes": null
+            },
+            "fees": {
+                "acceptLocators": true,
+                "allowCoSigners": false,
+                "creditCheck": false,
+                "criminalCheck": false,
+                "employmentCheck": false,
+                "rentalHistoryCheck": false,
+                "riskAssess": false,
+                "allowCorporate": false,
+                "hasFurnished": false,
+                "allowGuarantors": true,
+                "appFeeMarried": "N/A",
+                "leasePremiums": null,
+                "leaseTerms": null,
+                "securityDeposit": 250,
+                "adminFee": 50,
+                "amenityFee": "N/A",
+                "holdingFee": "N/A",
+                "locatorPayment": null,
+                "feeComments": "Non-Refundable Pet Fee $250.00/400.00 \r\nPet Rent: 15/month (1 pet)& 25 month (2 Pets)\r\nLimited 2 pets per apartment; 85 Ib. weight limit**Breed Restrictions Apply**\r\n\r\nSecurity Deposit $250.00 (could be up to one month's rent)\r\nSecurity Deposit (must be provided in separate money order)\r\nAdditional Rentals:\r\nGarage Rental $100.00\r\nStorage Rental $35.00\r\nWasher/Dryer $50.00",
+                "occupancyStand": "We follow local occupancy guidelines - see other comments",
+                "section8Notes": null,
+                "rentalAssistanceNotes": null,
+                "incomeRestrictions": null,
+                "notesQualification": "Occupancy Guidelines, Lease Options, and Qualifications:\r\nWe follow all local guidelines.\r\n\r\nOnsite will provide more information if needed.",
+                "rentFactor": 3,
+                "hasCoupon": false,
+                "couponText": null,
+                "couponDiscount": 0,
+                "otherRates": null,
+                "appFee": 25,
+                "corporateDescription": "No"
+            },
+            "pricingConfiguration": {
+                "isExternalPricing": false,
+                "externalPricingLink": null,
+                "isIntegrated": true,
+                "integrationPackage": "PricingHub_Yardi"
+            },
+            "generalInfo": {
+                "propertyStaff": {
+                    "Manager": "Kari Lawrence",
+                    "LeasingManager": "",
+                    "MarketingDirector": "",
+                    "Assistant1": "Courtney Kimrey",
+                    "Assistant2": "",
+                    "Leasing": []
+                },
+                "officeHours": [
+                    {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "8:30 AM",
+                        "close": "5:30 PM"
+                    },
+                    {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "8:30 AM",
+                        "close": "5:30 PM"
+                    },
+                    {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "8:30 AM",
+                        "close": "5:30 PM"
+                    },
+                    {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "8:30 AM",
+                        "close": "5:30 PM"
+                    },
+                    {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "8:30 AM",
+                        "close": "5:30 PM"
+                    },
+                    {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "10:00 AM",
+                        "close": "4:00 PM"
+                    },
+                    {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    }
+                ],
+                "visitHours": {
+                    "0": {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    },
+                    "1": {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "2": {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "3": {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "4": {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "5": {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "6": {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "10:30 AM",
+                        "close": "3:30 PM"
+                    },
+                    "sameDayVisits": false
+                },
+                "modelInfo": {
+                    "hasModelHome": true,
+                    "modelHomeView": "1,134 sq ft"
+                }
+            },
+            "pet": {
+                "petRestrictions": "No Rottweilers, Dobermans, Chows, Pit Bulls, German Shepherds (AB)",
+                "petRestrictionsOther": null,
+                "petDeposit": "N/A",
+                "petFee": "250.00/400.00",
+                "weightLimit": 0,
+                "maxPetWeight": 85,
+                "notes": null,
+                "petPremium": "15/25",
+                "rentPerPet": "Per Pet"
+            },
+            "contact": {
+                "phoneNumber": "336-584-9003",
+                "phoneTollFree": "866-348-8528",
+                "backLine": null,
+                "faxNumber": null,
+                "emailAddress": null,
+                "website": "http://www.hpiwindsoruponstonecrest.com/"
+            },
+            "portfolioName": "Hamilton Point Property Management",
+            "ownerName": null,
+            "isSettingVisits": true,
+            "defaultDID": 2521320,
+            "isActive": true,
+            "parking": {
+                "associatedParking": "",
+                "associatedParkingFee": "",
+                "coveredParking": "",
+                "coveredParkingFee": "",
+                "attachedGarage": "",
+                "attachedGarageFee": "",
+                "detachedGarage": "All",
+                "detachedGarageFee": "N/A",
+                "externalStorage": "All",
+                "externalStorageFee": "N/A",
+                "additionalParkingInfo": "Designated resident parking and Guest Parking avaliable"
+            },
+            "utilities": {
+                "telephone": "Res sets up and pays",
+                "electric": "Res has to set up and pay - DUKE",
+                "heatGas": "no gas",
+                "cable": "Res sets up and pays",
+                "water": "Res pays bill - set up by community ",
+                "internet": "Res sets up and pays",
+                "waterBasis": "Tenant",
+                "waterFees": "Res pays bill",
+                "trashFees": "Res pays through rent monthly",
+                "utilPaid": "",
+                "electricFees": "Res has to set up and pay - DUKE",
+                "cableFees": "Res sets up and pays",
+                "telephoneFees": "Res sets up and pays",
+                "gasFees": "No",
+                "fullSizeWasherDryer": "None",
+                "fullSizeWasherDryerFee": "",
+                "stackedWasherAndDryer": "",
+                "stackedWasherAndDryerFee": "",
+                "washerIsCoinOperated": true,
+                "canBringWasherAndDryer": true,
+                "clothesCareCenter": true,
+                "clothesCareCenterNumber": 1
+            },
+            "adSources": [
+                {
+                    "id": 2,
+                    "name": "Multiple Source",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 3,
+                    "name": "Unknown",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 4,
+                    "name": "Apartments.com",
+                    "phoneTollFree": "866-956-3059",
+                    "DID": "864-385-1370"
+                },
+                {
+                    "id": 5,
+                    "name": "ApartmentGuide.com",
+                    "phoneTollFree": "866-956-3055",
+                    "DID": "864-385-1366"
+                },
+                {
+                    "id": 94,
+                    "name": "CraigsList.com",
+                    "phoneTollFree": "866-956-4803",
+                    "DID": "864-385-1517"
+                },
+                {
+                    "id": 381,
+                    "name": "Other",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 2501,
+                    "name": "Property Website",
+                    "phoneTollFree": "866-578-9510",
+                    "DID": "864-387-5205"
+                },
+                {
+                    "id": 8526,
+                    "name": "Zillow",
+                    "phoneTollFree": "866-960-7836",
+                    "DID": "864-385-2830"
+                }
+            ]
+        },
+        "floorplans": [
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "Cambridge",
+                    "floorplanId": null,
+                    "floorplanCode": null,
+                    "bedrooms": 1,
+                    "bathrooms": 1,
+                    "squareFtMin": 739,
+                    "squareFtMax": 739,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/6979734.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "Kensington",
+                    "floorplanId": null,
+                    "floorplanCode": null,
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "squareFtMin": 1052,
+                    "squareFtMax": 1052,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/6979735.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "Oxford",
+                    "floorplanId": null,
+                    "floorplanCode": null,
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "squareFtMin": 1134,
+                    "squareFtMax": 1134,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/6979736.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "Brighton",
+                    "floorplanId": null,
+                    "floorplanCode": null,
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "squareFtMin": 1319,
+                    "squareFtMax": 1319,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/6979737.jpg"
+                    }
+                }
+            }
+        ]
+    }
+  },
+  "6":{
+    "data": {
+        "type": "property",
+        "id": 6,
+        "attributes": {
+            "propertyId": 6,
+            "propertyName": "Alexander Place",
+            "propertyType": null,
+            "propertyKey": null,
+            "propertyUrl": null,
+            "company": null,
+            "companyId": 25,
+            "mobilePortalUrl": null,
+            "phoneNumber": "704-369-8521",
+            "revenueModelId": null,
+            "currencySymbol": null,
+            "unitCount": 0,
+            "floorCount": null,
+            "yearBuild": 0,
+            "yearRemodeled": 0,
+            "parkingType": null,
+            "display": true,
+            "petMaxWeight": 0,
+            "numberOfPetsAllowed": 2,
+            "petPolicyRestrictions": "Cat Only (CO)",
+            "address": {
+                "address1": "200 Hamilton Drive",
+                "address2": "",
+                "city": "Salisbury",
+                "county": null,
+                "state": "NC",
+                "zip": "28147",
+                "latitude": null,
+                "longitude": null
+            },
+            "leaseLength": null,
+            "sellingPoints": {
+                "primaryAdvantage": "",
+                "propSellingPoints": "Our enormous 22-acre community is landscaped & beautifully wooded ;24-hour State-of-the-Art Fitness Center ;Beautiful Clubhouse for Resident use;Sparkling Swimming Pool;",
+                "homeSellingPoints": "Floor plans are very spacious with enormous closets;Full-sized W/D connections in all 1, 2 & 3 bedrooms;Energy efficient Whirlpool appliances;Patios or balconies for relaxation;",
+                "localSellingPoints": "Convenient to Charlotte for great shopping, entertainment and all sports venues;I-85 conveniently located nearby;Take a day trip into the nearby mountains for relaxation;Quality grocery stores, Walgreens and Target within walking distance;",
+                "infoLinks": null,
+                "neighborhoodKeyImage": null,
+                "propertyKeyImage": null,
+                "homeKeyImage": null
+            },
+            "notes": [
+                "Brand New Community- Under Construction",
+                "Scheduled to be completed in 6 months",
+                "Hard hat tours, inform all prospects that they must wear closed toed shoes to all visits"
+            ],
+            "features": {
+                "allUnits": [
+                    "Air Conditioning",
+                    "Mini Blinds",
+                    "Porch/Patio/Balcony",
+                    "Spacious Closet",
+                    "Wall to Wall Carpeting",
+                    "Linen Closet",
+                    "Dishwasher",
+                    "Garbage Disposal",
+                    "Microwave",
+                    "Refrigerator w/ Ice Maker",
+                    "Self Cleaning Oven",
+                    "Whirlpool Appliances",
+                    "Cable Ready",
+                    "High Speed Internet Available - Cable",
+                    "High Speed Internet Available - DSL",
+                    "Ceiling Fan in Living Room"
+                ],
+                "community": [
+                    "Barbeque / Grill Areas",
+                    "Business Center",
+                    "Clubhouse",
+                    "Courtyards",
+                    "Disability / Wheelchair Accessible",
+                    "Pet Friendly",
+                    "Play Area",
+                    "Planned Social Activities",
+                    "24 Hours Emergency Maintenance",
+                    "Fishing Lake/Pond",
+                    "Sundeck",
+                    "Fax/Copier Services",
+                    "Fitness Center",
+                    "Basketball Court",
+                    "Whirlpool (Jacuzzi)"
+                ],
+                "specificUnits": [
+                    "Custom Blinds",
+                    "Vaulted Ceilings",
+                    "Garden Tubs",
+                    "Breakfast Bar",
+                    "Pantry",
+                    "Satellite Dishes Accepted",
+                    "Ceiling Fan in Dining Room",
+                    "Assigned Parking Spaces",
+                    "Covered Parking",
+                    "Extra Storage Units Available"
+                ],
+                "other": [
+                    "Swimming Pool#1"
+                ]
+            },
+            "neighborhood": {
+                "airport": "Charlotte",
+                "airportRange": "20-25 Min",
+                "colleges": "Catawba, Livingstone, Phiffer(5 mi.)",
+                "collegeRange": "3 Miles",
+                "daycares": "",
+                "dayCareRange": "",
+                "elementarySchool": "Knollwood",
+                "elementaryRange": "3 Miles",
+                "generalInfo": "",
+                "grocery": "Food Lion, Winn Dixie, Harris Teeter",
+                "groceryRange": "1/2 Mile",
+                "gyms": "Gold's & Curves",
+                "gymRange": "1/2 Mile",
+                "highSchool": "Salisbury",
+                "highSchoolRange": "3 Miles",
+                "hospital": "Salisbury General",
+                "hospitalRange": "5 Miles",
+                "interstates": "2 Miles",
+                "interstatesRange": "2 Miles",
+                "librarys": "Salisbury",
+                "libraryRange": "2 Miles",
+                "middleSchool": "Knox",
+                "middleSchoolRange": "5 Miles",
+                "miscMilitary": "n/a",
+                "militaryRange": "---",
+                "otherPoints": "Spencer Shops",
+                "otherPointsRange": "3 Miles",
+                "retailShops": "Salisbury",
+                "retailFoods": "Food Lion, Winn Dixie, Harris Teeter",
+                "retailEntertainment": "Charlotte",
+                "retailEntertainmentRange": "25-30 Min",
+                "schoolDistrict": "",
+                "schoolDistrictRange": "",
+                "techSchool": "Rowan Cabarrus",
+                "techSchoolRange": "---",
+                "transit": "Salisbury Transit",
+                "transitRange": "1/2 Mile",
+                "shopRange": "5 Miles"
+            },
+            "timezone": null,
+            "affordableHousing": {
+                "accepted": false,
+                "notes": null
+            },
+            "fees": {
+                "acceptLocators": true,
+                "allowCoSigners": false,
+                "creditCheck": true,
+                "criminalCheck": true,
+                "employmentCheck": true,
+                "rentalHistoryCheck": true,
+                "riskAssess": false,
+                "allowCorporate": true,
+                "hasFurnished": true,
+                "allowGuarantors": false,
+                "appFeeMarried": "$50",
+                "leasePremiums": "MTM=$250 2-5 months=$200 6-9 months=$150 9-11 months=$100",
+                "leaseTerms": "Flexible",
+                "securityDeposit": "$500 or Sure Deposit of $87.50",
+                "adminFee": 0,
+                "amenityFee": 0,
+                "holdingFee": 0,
+                "locatorPayment": "$200",
+                "feeComments": "$87.50 Sure Deposit or $500 security deposit and application fees required to reserve a home.",
+                "occupancyStand": "2 per bedroom",
+                "section8Notes": null,
+                "rentalAssistanceNotes": null,
+                "incomeRestrictions": null,
+                "notesQualification": "We use RentSafe to qualify prospects",
+                "rentFactor": 3,
+                "hasCoupon": false,
+                "couponText": null,
+                "couponDiscount": 0,
+                "otherRates": null,
+                "appFee": "$50",
+                "corporateDescription": "Yes"
+            },
+            "pricingConfiguration": {
+                "isExternalPricing": false,
+                "externalPricingLink": null,
+                "isIntegrated": true,
+                "integrationPackage": "A&P Yieldstar"
+            },
+            "generalInfo": {
+                "propertyStaff": {
+                    "Manager": "Jeremy Batson",
+                    "LeasingManager": "",
+                    "MarketingDirector": "",
+                    "Assistant1": "",
+                    "Assistant2": "",
+                    "Leasing": [
+                        " "
+                    ]
+                },
+                "officeHours": [
+                    {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "10:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    }
+                ],
+                "visitHours": {
+                    "0": {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    },
+                    "1": {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    "2": {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    "3": {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    "4": {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    "5": {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "9:00 AM",
+                        "close": "7:00 PM"
+                    },
+                    "6": {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "10:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    "sameDayVisits": false
+                },
+                "modelInfo": {
+                    "hasModelHome": false,
+                    "modelHomeView": null
+                }
+            },
+            "pet": {
+                "petRestrictions": "Cat Only (CO)",
+                "petRestrictionsOther": null,
+                "petDeposit": "$350",
+                "petFee": null,
+                "weightLimit": 0,
+                "maxPetWeight": 40,
+                "notes": null,
+                "petPremium": null,
+                "rentPerPet": "Per Pet"
+            },
+            "contact": {
+                "phoneNumber": "704-369-8521",
+                "phoneTollFree": "888-201-1262",
+                "backLine": null,
+                "faxNumber": null,
+                "emailAddress": null,
+                "website": "http://www.alexanderplace.com"
+            },
+            "portfolioName": "LevelOne",
+            "ownerName": null,
+            "isSettingVisits": true,
+            "defaultDID": 3343933,
+            "isActive": true,
+            "parking": {
+                "associatedParking": "Some",
+                "associatedParkingFee": "N/A",
+                "coveredParking": "Some",
+                "coveredParkingFee": "$45                      ",
+                "attachedGarage": "",
+                "attachedGarageFee": "",
+                "detachedGarage": "",
+                "detachedGarageFee": "",
+                "externalStorage": "Some",
+                "externalStorageFee": "$25                                   ",
+                "additionalParkingInfo": "None"
+            },
+            "utilities": {
+                "telephone": "Bellsouth",
+                "electric": "Duke Power",
+                "heatGas": "n/a",
+                "cable": "Time Warner",
+                "water": "n/a",
+                "internet": "",
+                "waterBasis": "Included in Rent",
+                "waterFees": "n/a",
+                "trashFees": "n/a",
+                "utilPaid": "Pest Control;Power;Sewer;Trash;",
+                "electricFees": "",
+                "cableFees": "",
+                "telephoneFees": "",
+                "gasFees": "",
+                "fullSizeWasherDryer": "Some",
+                "fullSizeWasherDryerFee": "$50 Rental",
+                "stackedWasherAndDryer": "",
+                "stackedWasherAndDryerFee": "",
+                "washerIsCoinOperated": true,
+                "canBringWasherAndDryer": true,
+                "clothesCareCenter": true,
+                "clothesCareCenterNumber": 1
+            },
+            "adSources": [
+                {
+                    "id": 2,
+                    "name": "Multiple Source",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 3,
+                    "name": "Unknown",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 4,
+                    "name": "Apartments.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 6,
+                    "name": "ForRent.com",
+                    "phoneTollFree": "866-248-7385",
+                    "DID": "864-351-4373"
+                },
+                {
+                    "id": 7,
+                    "name": "Rent.com",
+                    "phoneTollFree": "866-430-1092",
+                    "DID": "864-351-7083"
+                },
+                {
+                    "id": 8,
+                    "name": "Rentals.com",
+                    "phoneTollFree": "866-879-1161",
+                    "DID": "864-351-5599"
+                },
+                {
+                    "id": 10,
+                    "name": "For Rent Book",
+                    "phoneTollFree": "866-508-1896",
+                    "DID": "864-351-5882"
+                },
+                {
+                    "id": 12,
+                    "name": "Move.com",
+                    "phoneTollFree": "866-736-0284",
+                    "DID": "864-351-7138"
+                },
+                {
+                    "id": 17,
+                    "name": "Chamber Rental Guide",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 18,
+                    "name": "Direct Mailer",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 381,
+                    "name": "Other",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 705,
+                    "name": "Apartment Finder",
+                    "phoneTollFree": "866-808-7320",
+                    "DID": "864-351-5962"
+                },
+                {
+                    "id": 1130,
+                    "name": "Newsweek",
+                    "phoneTollFree": "866-910-1887",
+                    "DID": "864-272-2970"
+                },
+                {
+                    "id": 6414,
+                    "name": "Newspaper display ad",
+                    "phoneTollFree": "888-296-3977",
+                    "DID": "864-331-6953"
+                },
+                {
+                    "id": 6416,
+                    "name": "Senior Publication",
+                    "phoneTollFree": "866-445-1767",
+                    "DID": "864-334-0598"
+                },
+                {
+                    "id": 6418,
+                    "name": "StartRenting.com",
+                    "phoneTollFree": "866-917-5254",
+                    "DID": "864-477-2500"
+                }
+            ]
+        },
+        "floorplans": [
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Charleston",
+                    "floorplanId": null,
+                    "floorplanCode": "1A",
+                    "bedrooms": 1,
+                    "bathrooms": 1,
+                    "squareFtMin": 1000,
+                    "squareFtMax": 950,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/5677.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Shakespeare",
+                    "floorplanId": null,
+                    "floorplanCode": "2A",
+                    "bedrooms": 2,
+                    "bathrooms": 1,
+                    "squareFtMin": 1200,
+                    "squareFtMax": 1100,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/5678.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Dickinson",
+                    "floorplanId": null,
+                    "floorplanCode": "3A",
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "squareFtMin": 1350,
+                    "squareFtMax": 1250,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/5679.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Sweetwater",
+                    "floorplanId": null,
+                    "floorplanCode": "1B",
+                    "bedrooms": 1,
+                    "bathrooms": 1.5,
+                    "squareFtMin": 1000,
+                    "squareFtMax": 1000,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/5680.jpg"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Poe",
+                    "floorplanId": null,
+                    "floorplanCode": "3B",
+                    "bedrooms": 3,
+                    "bathrooms": 2.5,
+                    "squareFtMin": 1450,
+                    "squareFtMax": 1300,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/5682.jpg"
+                    }
+                }
+            }
+        ],
+        "sisterProperties": [
+            {
+                "id": 11704,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "RealPage Estates",
+                    "propertyId": 11704,
+                    "distance": "2 Miles",
+                    "address": {
+                        "address1": "632 Spring Meadow Parkway",
+                        "address2": "",
+                        "city": "Knoxville",
+                        "county": null,
+                        "state": "TN",
+                        "zip": "37902",
+                        "latitude": "35.654354",
+                        "longitude": "-80.501116"
+                    }
+                }
+            }
+        ]
+    }
+  },
+  "6015" : {
+    "data": {
+        "type": "property",
+        "id": 6015,
+        "attributes": {
+            "propertyId": 6015,
+            "propertyName": "Wesleyan Courts",
+            "propertyType": null,
+            "propertyKey": null,
+            "propertyUrl": null,
+            "company": null,
+            "companyId": 402,
+            "mobilePortalUrl": null,
+            "phoneNumber": "757-499-5555",
+            "revenueModelId": null,
+            "currencySymbol": null,
+            "unitCount": 0,
+            "floorCount": null,
+            "yearBuild": 0,
+            "yearRemodeled": 0,
+            "parkingType": null,
+            "display": true,
+            "petMaxWeight": 0,
+            "numberOfPetsAllowed": 2,
+            "petPolicyRestrictions": "No Rottweilers, Dobermans, Chows, Pit Bulls, German Shepherds (AB)Bull TerriersAmerican Staffordshire TerriersPresaCanariosAkita'sWolf HybridsHuskies",
+            "address": {
+                "address1": "609 Winding Way",
+                "address2": "",
+                "city": "Virginia Beach",
+                "county": null,
+                "state": "VA",
+                "zip": "23462",
+                "latitude": null,
+                "longitude": null
+            },
+            "leaseLength": null,
+            "sellingPoints": {
+                "primaryAdvantage": "",
+                "propSellingPoints": "1, 2, and 3 bedroom apartments;Great location to beaches;Beautiful landscaping year around;Convenient to Virginia Beach Town Center;",
+                "homeSellingPoints": "Washer/dryer hookups available ;Abundant closet space;Kitchen with dishwasher and disposal - most with breakfast bar;Patio/balcony;",
+                "localSellingPoints": "Just minutes away from shopping, dining, beaches and entertainment;Convenient to I-264 and I-64;Close to parks, lakes, and much more;Right down the road from Virginia Wesleyan College;",
+                "infoLinks": null,
+                "neighborhoodKeyImage": null,
+                "propertyKeyImage": null,
+                "homeKeyImage": null
+            },
+            "notes": [
+                "No SUS"
+            ],
+            "features": {
+                "allUnits": [
+                    "Air Conditioning",
+                    "Mini Blinds",
+                    "Patio or Balcony",
+                    "Porch/Patio/Balcony",
+                    "Spacious Closet",
+                    "Wall to Wall Carpeting",
+                    "Dishwasher",
+                    "Garbage Disposal",
+                    "Refrigerator",
+                    "Electric Oven",
+                    "Cable Ready",
+                    "High Speed Internet Available - Cable",
+                    "High Speed Internet Available - DSL",
+                    "Assigned Parking Spaces"
+                ],
+                "community": [
+                    "Barbeque / Grill Areas",
+                    "Clubhouse",
+                    "Courtyards",
+                    "Disability / Wheelchair Accessible",
+                    "Pet Friendly",
+                    "Play Area",
+                    "Courtesy Mail Pick Up",
+                    "24 Hours Emergency Maintenance",
+                    "Conference Room",
+                    "Coffee Bar"
+                ],
+                "specificUnits": [
+                    "Linen Closet",
+                    "Self Cleaning Oven",
+                    "Whirlpool Appliances",
+                    "Satellite Dishes Accepted",
+                    "Brushed Chrome Hardware",
+                    "Stainless Steel Sinks",
+                    "Convenient mailbox location"
+                ],
+                "other": [
+                    "Reserved parking/ Guest Pass"
+                ]
+            },
+            "neighborhood": {
+                "airport": "Norfolk International Airport (ORF)",
+                "airportRange": "3 Miles",
+                "colleges": "Virginia Wesleyan College, Regent University, Norfolk State Unv",
+                "collegeRange": "5 Miles",
+                "daycares": "A Mothers Love Daycare",
+                "dayCareRange": "1/4 Mile",
+                "elementarySchool": "Diamond Springs, Newtown, Bettie F. Williams",
+                "elementaryRange": "1 Mile",
+                "generalInfo": "",
+                "grocery": "Farm Fresh, Food Lion, Wal-Mart",
+                "groceryRange": "1 Mile",
+                "gyms": "Curves, Bayside Recreation Center",
+                "gymRange": "3 Miles",
+                "highSchool": "Bayside High School",
+                "highSchoolRange": "1 Mile",
+                "hospital": "Sentara Norfolk General Hospital",
+                "hospitalRange": "5 Miles",
+                "interstates": "1 Mile",
+                "interstatesRange": "1 Mile",
+                "librarys": "Janaf Public Library",
+                "libraryRange": "1 Mile",
+                "middleSchool": "Bayside Middle School",
+                "middleSchoolRange": "1 Mile",
+                "miscMilitary": "NOB (20 minutes), Little Creek (15 minutes), Portsmouth (15 mins)",
+                "militaryRange": "15-20 Min",
+                "otherPoints": "Chick's Beach, Virginia Beach Oceanfront",
+                "otherPointsRange": "10-15 Min",
+                "retailShops": "Pembroke Mall Shopping Center",
+                "retailFoods": "Farm Fresh, Food Lion, Wal-Mart",
+                "retailEntertainment": "Dick Price Stadium, Norfolk Scope, Va Beach Ampitheatre",
+                "retailEntertainmentRange": "5 Miles",
+                "schoolDistrict": "",
+                "schoolDistrictRange": "",
+                "techSchool": "Tidewater Community College",
+                "techSchoolRange": "1 Mile",
+                "transit": "HRT (27)",
+                "transitRange": "1/2 Mile",
+                "shopRange": "3 Miles"
+            },
+            "timezone": null,
+            "affordableHousing": {
+                "accepted": false,
+                "notes": null
+            },
+            "fees": {
+                "acceptLocators": false,
+                "allowCoSigners": true,
+                "creditCheck": true,
+                "criminalCheck": true,
+                "employmentCheck": true,
+                "rentalHistoryCheck": true,
+                "riskAssess": false,
+                "allowCorporate": false,
+                "hasFurnished": false,
+                "allowGuarantors": false,
+                "appFeeMarried": "$70",
+                "leasePremiums": "$35 per month for 6 month lease.",
+                "leaseTerms": "6-12 months",
+                "securityDeposit": "$250 - $500",
+                "adminFee": "N/A",
+                "amenityFee": "N/A",
+                "holdingFee": "$100",
+                "locatorPayment": null,
+                "feeComments": null,
+                "occupancyStand": "2 per bedroom",
+                "section8Notes": null,
+                "rentalAssistanceNotes": null,
+                "incomeRestrictions": null,
+                "notesQualification": "Military RPP program is accepted here.",
+                "rentFactor": 2.5,
+                "hasCoupon": false,
+                "couponText": null,
+                "couponDiscount": 0,
+                "otherRates": null,
+                "appFee": "$35",
+                "corporateDescription": "No"
+            },
+            "pricingNotes": [
+                {
+                    "id": 84045,
+                    "note": "Show site team that you've LIKED Wesleyan Courts Apartments on Facebook and receive $5 off application",
+                    "createDate": "2018-01-11T15:19:07.783",
+                    "expireDate": "2018-02-15T00:00:00"
+                },
+                {
+                    "id": 84044,
+                    "note": "Apply and move in by 2/15/18 and receive $250 upfront concession",
+                    "createDate": "2018-01-11T15:18:31.52",
+                    "expireDate": "2018-02-15T00:00:00"
+                }
+            ],
+            "pricingConfiguration": {
+                "isExternalPricing": false,
+                "externalPricingLink": null,
+                "isIntegrated": true,
+                "integrationPackage": "PricingHub_OnesitePANDA"
+            },
+            "generalInfo": {
+                "propertyStaff": {
+                    "Manager": "Melanie Davis",
+                    "LeasingManager": "",
+                    "MarketingDirector": "",
+                    "Assistant1": "",
+                    "Assistant2": "",
+                    "Leasing": [
+                        "Kenequa Baskin"
+                    ]
+                },
+                "officeHours": [
+                    {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "9:00 AM",
+                        "close": "5:00 PM"
+                    },
+                    {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    }
+                ],
+                "visitHours": {
+                    "0": {
+                        "ordinal": 1,
+                        "name": "Sunday",
+                        "open": "Closed",
+                        "close": "Closed"
+                    },
+                    "1": {
+                        "ordinal": 2,
+                        "name": "Monday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "2": {
+                        "ordinal": 3,
+                        "name": "Tuesday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "3": {
+                        "ordinal": 4,
+                        "name": "Wednesday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "4": {
+                        "ordinal": 5,
+                        "name": "Thursday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "5": {
+                        "ordinal": 6,
+                        "name": "Friday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "6": {
+                        "ordinal": 7,
+                        "name": "Saturday",
+                        "open": "9:00 AM",
+                        "close": "4:30 PM"
+                    },
+                    "sameDayVisits": false
+                },
+                "modelInfo": {
+                    "hasModelHome": false,
+                    "modelHomeView": null
+                }
+            },
+            "pet": {
+                "petRestrictions": "No Rottweilers, Dobermans, Chows, Pit Bulls, German Shepherds (AB)Bull TerriersAmerican Staffordshire TerriersPresaCanariosAkita'sWolf HybridsHuskies",
+                "petRestrictionsOther": null,
+                "petDeposit": null,
+                "petFee": "$225",
+                "weightLimit": 0,
+                "maxPetWeight": 50,
+                "notes": "Full blood or mixed at any percentage",
+                "petPremium": "$25",
+                "rentPerPet": "Per Pet"
+            },
+            "contact": {
+                "phoneNumber": "757-499-5555",
+                "phoneTollFree": "866-960-6867",
+                "backLine": null,
+                "faxNumber": null,
+                "emailAddress": null,
+                "website": "http://www.WesleyanCourts.com/"
+            },
+            "portfolioName": "S.L. Nusbaum Realty Co.",
+            "ownerName": null,
+            "isSettingVisits": true,
+            "defaultDID": 3852748,
+            "isActive": true,
+            "parking": {
+                "associatedParking": "All",
+                "associatedParkingFee": "$0",
+                "coveredParking": "",
+                "coveredParkingFee": "",
+                "attachedGarage": "",
+                "attachedGarageFee": "",
+                "detachedGarage": "",
+                "detachedGarageFee": "",
+                "externalStorage": "",
+                "externalStorageFee": "",
+                "additionalParkingInfo": "None"
+            },
+            "utilities": {
+                "telephone": "Cox, Verizon, resident's choice",
+                "electric": "Dominion Power",
+                "heatGas": "N/A",
+                "cable": "Cox preferred",
+                "water": "Velocity",
+                "internet": "Resident's choice",
+                "waterBasis": "Based on Usage",
+                "waterFees": "",
+                "trashFees": "",
+                "utilPaid": "Pest Control;",
+                "electricFees": "",
+                "cableFees": "",
+                "telephoneFees": "",
+                "gasFees": "",
+                "fullSizeWasherDryer": "Some",
+                "fullSizeWasherDryerFee": "$42.00",
+                "stackedWasherAndDryer": "Some",
+                "stackedWasherAndDryerFee": "$42.00",
+                "washerIsCoinOperated": true,
+                "canBringWasherAndDryer": true,
+                "clothesCareCenter": true,
+                "clothesCareCenterNumber": 1
+            },
+            "adSources": [
+                {
+                    "id": 2,
+                    "name": "Multiple Source",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 3,
+                    "name": "Unknown",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 4,
+                    "name": "Apartments.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 5,
+                    "name": "ApartmentGuide.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 6,
+                    "name": "ForRent.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 7,
+                    "name": "Rent.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 8,
+                    "name": "Rentals.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 12,
+                    "name": "Move.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 20,
+                    "name": "ApartmentFinder.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 381,
+                    "name": "Other",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 1741,
+                    "name": "MyNewPlace.com",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15683,
+                    "name": "4Walls.net_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15684,
+                    "name": "ADU_Program",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15685,
+                    "name": "AffordableSearch.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15688,
+                    "name": "AHRN.com-Military Referrals_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15689,
+                    "name": "Apartment_Book",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15690,
+                    "name": "Apartment_Showcase_Magazine",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15691,
+                    "name": "ApartmentCities.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15693,
+                    "name": "ApartmentFinder_Magazine",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15696,
+                    "name": "ApartmentRatings.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15697,
+                    "name": "ApartmentRentals.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15699,
+                    "name": "ApartmentSearch.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15700,
+                    "name": "ApartmentShowcase.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15701,
+                    "name": "Bing.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15702,
+                    "name": "Chamber_of_Commerce",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15703,
+                    "name": "Church_Community",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15704,
+                    "name": "CitySearch.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15705,
+                    "name": "Community_Website",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15706,
+                    "name": "Cort.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15707,
+                    "name": "CraigsList.org_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15708,
+                    "name": "Direct_Mail",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15709,
+                    "name": "Drive_By",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15710,
+                    "name": "Email_Campaign",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15711,
+                    "name": "Event_Flyer",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15712,
+                    "name": "Facebook.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15713,
+                    "name": "Family_Member",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15714,
+                    "name": "Former_Resident",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15716,
+                    "name": "ForRent_Magazine",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15717,
+                    "name": "Friend_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15718,
+                    "name": "Google.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15719,
+                    "name": "Local_Guide",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15720,
+                    "name": "Merchant_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15721,
+                    "name": "Military_Housing",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15722,
+                    "name": "Military_Magazine",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15725,
+                    "name": "Newspaper_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15728,
+                    "name": "Oodle.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15729,
+                    "name": "Outreach_Marketing",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15730,
+                    "name": "Realtor_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15732,
+                    "name": "Resident_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15733,
+                    "name": "Section_8_Housing",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15738,
+                    "name": "Signage_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15739,
+                    "name": "Sister_Property",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15740,
+                    "name": "SLNusbaum.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15741,
+                    "name": "SocialServe.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15742,
+                    "name": "Spanish_Newspaper",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15743,
+                    "name": "Trulia.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15745,
+                    "name": "Word_of_Mouth",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15746,
+                    "name": "Yahoo.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15747,
+                    "name": "YellowPages.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15748,
+                    "name": "Yelp.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15749,
+                    "name": "YouTube.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 15750,
+                    "name": "Zillow.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                },
+                {
+                    "id": 17858,
+                    "name": "ApartmentList.com_",
+                    "phoneTollFree": null,
+                    "DID": null
+                }
+            ]
+        },
+        "floorplans": [
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Charles",
+                    "floorplanId": null,
+                    "floorplanCode": "31-1150467",
+                    "bedrooms": 1,
+                    "bathrooms": 1,
+                    "squareFtMin": 694,
+                    "squareFtMax": 694,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Edward",
+                    "floorplanId": null,
+                    "floorplanCode": "33-1150467",
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "squareFtMin": 937,
+                    "squareFtMax": 937,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Barrison",
+                    "floorplanId": null,
+                    "floorplanCode": "35-1150467",
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "squareFtMin": 1005,
+                    "squareFtMax": 1005,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Roxbury",
+                    "floorplanId": null,
+                    "floorplanCode": "37-1150467",
+                    "bedrooms": 2,
+                    "bathrooms": 2,
+                    "squareFtMin": 1109,
+                    "squareFtMax": 1109,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Hastings",
+                    "floorplanId": null,
+                    "floorplanCode": "39-1150467",
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "squareFtMin": 1198,
+                    "squareFtMax": 1198,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            },
+            {
+                "id": null,
+                "type": "floorplan",
+                "attributes": {
+                    "name": "The Diana",
+                    "floorplanId": null,
+                    "floorplanCode": "51-1150467",
+                    "bedrooms": 0,
+                    "bathrooms": 1,
+                    "squareFtMin": 540,
+                    "squareFtMax": 540,
+                    "images": {
+                        "floorplanFile": "http://applications.levelone.com/Floorplans/"
+                    }
+                }
+            }
+        ],
+        "sisterProperties": [
+            {
+                "id": 5976,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "Brittany Place",
+                    "propertyId": 5976,
+                    "distance": "5 Miles",
+                    "address": {
+                        "address1": "6143-A Edward St",
+                        "address2": "",
+                        "city": "Norfolk",
+                        "county": null,
+                        "state": "VA",
+                        "zip": "23513",
+                        "latitude": "36.862809",
+                        "longitude": "-76.181368"
+                    }
+                }
+            },
+            {
+                "id": 5971,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "Lakeville Townhomes",
+                    "propertyId": 5971,
+                    "distance": "5 Miles",
+                    "address": {
+                        "address1": "6120 Lexington Ct",
+                        "address2": "",
+                        "city": "Virginia Beach",
+                        "county": null,
+                        "state": "VA",
+                        "zip": "23464",
+                        "latitude": "36.862809",
+                        "longitude": "-76.181368"
+                    }
+                }
+            },
+            {
+                "id": 6016,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "Pembroke Town Center",
+                    "propertyId": 6016,
+                    "distance": "2 Miles",
+                    "address": {
+                        "address1": "4616 Broad St",
+                        "address2": "",
+                        "city": "Virginia Beach",
+                        "county": null,
+                        "state": "VA",
+                        "zip": "23462",
+                        "latitude": "36.862809",
+                        "longitude": "-76.181368"
+                    }
+                }
+            },
+            {
+                "id": 5978,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "Thalia Gardens",
+                    "propertyId": 5978,
+                    "distance": "10-15 Min",
+                    "address": {
+                        "address1": "4129 Inverness Rd",
+                        "address2": "",
+                        "city": "Virginia Beach",
+                        "county": null,
+                        "state": "VA",
+                        "zip": "23452",
+                        "latitude": "36.862809",
+                        "longitude": "-76.181368"
+                    }
+                }
+            },
+            {
+                "id": 6057,
+                "type": "sisterProperty",
+                "attributes": {
+                    "name": "Weblin Place",
+                    "propertyId": 6057,
+                    "distance": "1/2 Mile",
+                    "address": {
+                        "address1": "5670 Weblin Drive  ",
+                        "address2": "",
+                        "city": "Virginia Beach",
+                        "county": null,
+                        "state": "VA",
+                        "zip": "23462",
+                        "latitude": "36.862809",
+                        "longitude": "-76.181368"
+                    }
+                }
+            }
+        ]
+    }
+  }
+}
